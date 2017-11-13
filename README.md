@@ -32,7 +32,7 @@ Configuration variables:
 - **password** (*Required*): The password that you use for Sinopé Neviweb.
 - **gateway** (*Required*): The name of the network you wan't to control.
 
-N.B. these values can be retrieved form the [Neviweb portal](https://neviweb.com/)
+N.B. these values can be retrieved from the [Neviweb portal](https://neviweb.com/)
 
 ## Restart Home Assistant
 
