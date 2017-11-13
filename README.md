@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/ryanmaclean/sinope-home-assistant-compone
 To enable your Sinopé thermostats management in your installation, add the following to your `configuration.yaml` file:
 
 ```yaml
-# Example configuration.yaml entry
+# Example configuration.yaml entry from ~/.homeassistant/configuration.yaml
 climate:
   - platform: sinope
     username: '<your e-mail-adress>'
