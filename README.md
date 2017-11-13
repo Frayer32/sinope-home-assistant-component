@@ -36,4 +36,4 @@ N.B. these values can be retrieved form the [Neviweb portal](https://neviweb.com
 
 ## Restart Home Assistant
 
-`sudo service hass restart`
+`sudo systemctl restart home-assistant`
