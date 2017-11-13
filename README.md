@@ -6,8 +6,11 @@ Custom components for Sinopé thermostats in Home Assistant. (http://www.home-as
 Copy the sinope.py component to your custom component climate directory.
 Example: 
 ```
+# Create required dirs
+mkdir ~/.homeassistant/custom_components
+mkdir ~/.homeassistant/custom_components/climate
 cd /home/homeassistant/.homeassistant/custom_components/climate/
-wget https://github.com/ryanmaclean/sinope-home-assistant-component/master/custom_components/climate/sinope.py
+wget https://raw.githubusercontent.com/ryanmaclean/sinope-home-assistant-component/master/custom_components/climate/sinope.py
 ```
 
 Configure it then restart HA.
