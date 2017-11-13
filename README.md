@@ -13,8 +13,6 @@ cd /home/homeassistant/.homeassistant/custom_components/climate/
 wget https://raw.githubusercontent.com/ryanmaclean/sinope-home-assistant-component/master/custom_components/climate/sinope.py
 ```
 
-Configure it then restart HA.
-
 ## Configuration
 
 To enable your Sinopé thermostats management in your installation, add the following to your `configuration.yaml` file:
@@ -35,3 +33,7 @@ Configuration variables:
 - **gateway** (*Required*): The name of the network you wan't to control.
 
 N.B. these values can be retrieved form the [Neviweb portal](https://neviweb.com/)
+
+## Restart Home Assistant
+
+`sudo service hass restart`
