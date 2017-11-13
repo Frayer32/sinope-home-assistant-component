@@ -1,6 +1,6 @@
 # Home Assistant Sinopé Custom Components
 
-Here are my custom components for Sinopé thermostats in Home Assistant. (http://www.home-assistant.io)
+Custom components for Sinopé thermostats in Home Assistant. (http://www.home-assistant.io)
 
 ## Installation
 Copy the sinope.py component to your custom component climate directory.
@@ -30,3 +30,5 @@ Configuration variables:
 - **username** (*Required*): The email address that you use for Sinopé Neviweb.
 - **password** (*Required*): The password that you use for Sinopé Neviweb.
 - **gateway** (*Required*): The name of the network you wan't to control.
+
+N.B. these values can be retrieved form the [Neviweb portal](https://neviweb.com/)
