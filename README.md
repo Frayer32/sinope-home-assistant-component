@@ -1,6 +1,6 @@
 # Home Assistant Sinopé Custom Components
 
-Custom components for Sinopé thermostats in Home Assistant. (http://www.home-assistant.io)
+Custom components for Sinopé thermostats in [Home Assistant](http://www.home-assistant.io).
 
 ## Installation
 Copy the sinope.py component to your custom component climate directory.
