@@ -1,7 +1,7 @@
 """
-Support for Sinope.
+Support for Sinope thermostats
 
-For more details about this platform, please refer to the documentation at
+For more details about this platform, please refer to the documentation at https://www.sinopetech.com/en/support/#api
 """
 import logging
 from datetime import timedelta
